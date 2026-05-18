@@ -1,4 +1,19 @@
-## Hi there 👋
+## 🏅 Community Badge
+
+<p align="center">
+  <img src="https://drive.google.com/file/d/1lAe01-d6FEBrLc6X24hIFPcdB9Z6MqjV/view?usp=drive_link" width="300"/>
+</p>
+
+### 🌟 Wecncode Community Member
+Proud member of the Wecncode tech community focused on AI education, innovation, and developer growth.
+
+## 💻 Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <!--
 **Elahmai/Elahmai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
