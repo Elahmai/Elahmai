@@ -1,7 +1,7 @@
 ## 🏅 Community Badge
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1lAe01-d6FEBrLc6X24hIFPcdB9Z6MqjV/view?usp=drive_link" width="300"/>
+  <img src="https://drive.google.com/uc?export=view&id=1lAe01-d6FEBrLc6X24hIFPcdB9Z6MqjV" width="300"/>
 </p>
 
 ### 🌟 Wecncode Community Member
