@@ -158,13 +158,6 @@ Always building. Always learning.
 
 </div>
 
-# 🌃 CYBERPUNK DEVELOPER ZONE
-
-<img width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA0MmI0NGQ4YTRlN2NkYjAyODQ5NzA0MjM5YmY4YzNlZDUwOTNmMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -214,4 +207,4 @@ Always building. Always learning.
 <h3>Build Beyond Limits 🚀</h3>
 
 </div>
-```
+
