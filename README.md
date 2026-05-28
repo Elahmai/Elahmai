@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5FF,100:0011FF&text=ELAHMAI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyberpunk%20Mobile%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5FF,100:0011FF&text=ELAH KEMUNTO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyberpunk%20Mobile%20Developer&descAlignY=60"/>
 
 </div>
 
