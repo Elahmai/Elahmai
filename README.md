@@ -144,10 +144,9 @@ Always building. Always learning.
 
 # 🔥 GITHUB STREAK
 
-<img src="https://streak-stats.demolab.com?user=Elahmai&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=Elahmai&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=1&date_format=M%20j%5B%2C%20Y%5D"/>
 
 </div>
-
 ---
 
 <div align="center">
