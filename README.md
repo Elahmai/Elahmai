@@ -77,8 +77,8 @@ AI Education • Innovation • Developer Growth
 <td width="50%">
 
 <h2>
-<a href="https://github.com/Elahmai/PandaPass" target="_blank">
-🐼 PandaPass
+<a href="https://github.com/Elahmai/Transit-Pay" target="_blank">
+🚇 Transit Pay
 </a>
 </h2>
 
